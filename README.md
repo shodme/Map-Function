@@ -1,16 +1,7 @@
 # Map-Function
 Contrast Several Atmosphere Map Funtions 
 
-你好，我是歪果仁
+* The main aim is to verify the accuracy of the map function :1/cos(&theta;)
 
-[我的博客](http://blog.csdn.net/guodongxiaren)  
-
-[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")  
-
-* 一级标题
-   * 二级标题
-      * 三级标题
-          * 四级标题
-          
-          
-![](https://www.baidu.com/img/bd_logo1.png?where=super)
+* The reference paper:<br>
+    * 王纯, 张捍卫等 -2009-  **"大气折射延迟映射函数的比较"**[[pdf]](http://www.ixueshu.com/document/e4aa99e8bf767b73.html)</br>
